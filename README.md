@@ -1,4 +1,4 @@
-<img align="right" height="590em" 
+<img align="right" height="600em" 
      src="https://raw.githubusercontent.com/gist/Douglas-H-Barbosa/3959094d342273a6e3f713b5b5314779/raw/2a7e5ede79935f0bd4500bc6f0b7eb38bb97badd/github.card.svg"/>
 <h1 align="left">Hi guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Douglas Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Douglas-H-Barbosa&color=blue" alt="Profile views" /> </p>
@@ -15,8 +15,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
-<br><br>
-
+<br></br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -24,8 +23,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Douglas-H-Barbosa&show_icons=true&theme=vision-friendly-dark" alt="Douglas Henrique stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-H-Barbosa&layout=compact&theme=vision-friendly-dark" alt="Douglas Henrique most languages"/>
 </p>
-
-<br><br>
 
 ## Follow me!
 
