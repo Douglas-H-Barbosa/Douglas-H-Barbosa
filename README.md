@@ -17,13 +17,6 @@
 
 <br></br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Douglas-H-Barbosa&show_icons=true&theme=vision-friendly-dark" alt="Douglas Henrique stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-H-Barbosa&layout=compact&theme=vision-friendly-dark" alt="Douglas Henrique most languages"/>
-</p>
-
 ## Follow me!
 
 <p align="left" style="background:yellow">
